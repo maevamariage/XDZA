@@ -1,0 +1,20 @@
+{
+  "name": "Maéva & Grégoire - 01.11.2025",
+  "short_name": "M&G",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e2ac96",
+  "theme_color": "#c16140",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

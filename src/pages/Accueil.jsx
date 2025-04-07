@@ -1,0 +1,1 @@
+export default function Accueil() { return <div><h2>Accueil</h2><p>Bienvenue sur l’application de mariage 💕</p></div> }

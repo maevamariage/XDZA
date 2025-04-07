@@ -1,0 +1,1 @@
+export default function Quiz() { return <div><h2>Quiz des mariés</h2><p>Des questions funs sur Maéva & Grégoire</p></div> }

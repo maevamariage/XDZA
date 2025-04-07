@@ -1,0 +1,1 @@
+export default function Menu() { return <div><h2>Menu Sicilien</h2><p>Les délices du buffet 🧀🍕</p></div> }

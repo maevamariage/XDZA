@@ -1,0 +1,1 @@
+export default function Galerie() { return <div><h2>Galerie photo</h2><p>Ajoute ou découvre les photos de la fête 📸</p></div> }

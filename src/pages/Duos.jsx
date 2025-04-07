@@ -1,0 +1,1 @@
+export default function Duos() { return <div><h2>Jeu des duos</h2><p>Tire ton binôme surprise 👯‍♀️</p></div> }

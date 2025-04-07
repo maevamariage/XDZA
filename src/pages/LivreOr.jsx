@@ -1,0 +1,1 @@
+export default function LivreOr() { return <div><h2>Livre d’or</h2><p>Laisse un petit mot aux mariés 💌</p></div> }

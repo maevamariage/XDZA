@@ -1,0 +1,1 @@
+export default function Infos() { return <div><h2>Infos Pratiques</h2><p>Adresse, horaires, hébergements…</p></div> }
